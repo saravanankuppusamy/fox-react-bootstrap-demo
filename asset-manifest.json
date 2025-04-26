@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fox-react-bootstrap-demo/static/css/main.f2896d43.css",
+    "main.js": "/fox-react-bootstrap-demo/static/js/main.732d26bf.js",
+    "static/js/453.88f5ae25.chunk.js": "/fox-react-bootstrap-demo/static/js/453.88f5ae25.chunk.js",
+    "index.html": "/fox-react-bootstrap-demo/index.html",
+    "main.f2896d43.css.map": "/fox-react-bootstrap-demo/static/css/main.f2896d43.css.map",
+    "main.732d26bf.js.map": "/fox-react-bootstrap-demo/static/js/main.732d26bf.js.map",
+    "453.88f5ae25.chunk.js.map": "/fox-react-bootstrap-demo/static/js/453.88f5ae25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2896d43.css",
+    "static/js/main.732d26bf.js"
+  ]
+}
